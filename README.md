@@ -40,7 +40,6 @@ To run the experiments and reproduce the results, you will need:
 ## 🔗 Citation
 If you use this code or our findings in your research, please cite the following paper:
 
-```bibtex
 @article{GermanLoadForecasting2025,
   title   = {Feature Engineering in Time Series Forecasting: An Empirical Study Using German Electricity Load Data},
   author  = {Karmaker, S.},
