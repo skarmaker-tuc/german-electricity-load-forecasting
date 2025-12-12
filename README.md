@@ -50,3 +50,10 @@ If you use this code or our findings in your research, please cite the following
   doi     = {10.14293/PR2199.002316.v1},
   url     = {[https://doi.org/10.14293/PR2199.002316.v1](https://doi.org/10.14293/PR2199.002316.v1)}
 }
+
+## 📚 Reference
+
+This implementation follows the feature engineering principles presented in:
+
+* Joseph, M. *Modern Time Series Forecasting with Python*. Packt Publishing, 2022,  
+  Chapter 6: Feature Engineering for Time Series Forecasting.
