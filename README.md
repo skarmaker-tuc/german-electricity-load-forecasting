@@ -37,9 +37,18 @@ To run the experiments and reproduce the results, you will need:
    ```bash
    git clone [https://github.com/skarmaker-tuc/german-electricity-load-forecasting.git](https://github.com/skarmaker-tuc/german-electricity-load-forecasting.git)
 
+## 📚 Reference
+
+This implementation follows the feature engineering principles presented in:
+
+* Joseph, M. *Modern Time Series Forecasting with Python*. Packt Publishing, 2022,  
+  Chapter 6: Feature Engineering for Time Series Forecasting.
+
+
 ## 🔗 Citation
 If you use this code or our findings in your research, please cite the following paper:
 
+```bibtex
 @article{GermanLoadForecasting2025,
   title   = {Feature Engineering in Time Series Forecasting: An Empirical Study Using German Electricity Load Data},
   author  = {Karmaker, S.},
@@ -51,9 +60,3 @@ If you use this code or our findings in your research, please cite the following
 }
 
 
-## 📚 Reference
-
-This implementation follows the feature engineering principles presented in:
-
-* Joseph, M. *Modern Time Series Forecasting with Python*. Packt Publishing, 2022,  
-  Chapter 6: Feature Engineering for Time Series Forecasting.
