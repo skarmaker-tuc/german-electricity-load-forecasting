@@ -29,7 +29,6 @@ To run the experiments and reproduce the results, you will need:
   * `requests`  <!-- for downloading the OPSD dataset -->
 
 
-### Running the Code
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/](https://github.com/)skarmaker-tuc/german-electricity-load-forecasting.git
+   git clone [https://github.com/skarmaker-tuc/german-electricity-load-forecasting.git](https://github.com/skarmaker-tuc/german-electricity-load-forecasting.git)
