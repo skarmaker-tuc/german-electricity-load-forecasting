@@ -15,7 +15,7 @@ Feature engineering is a crucial element in Time Series Forecasting.Features can
 ## 📈 Results
 The plot below demonstrates the effectiveness of our feature engineering approach. The orange line (our model) shows significantly lower error amplitude compared to the baseline model (blue dashed line), particularly during high-variance periods.
 
-![Residual Comparison](residuals_plot.jpg)
+![Residual Comparison](residuals_plot.png)
 
 *Figure 1: Residual comparison over 200 hours. The feature-engineered model consistently achieves lower prediction error (MW) than the baseline.*
 ## 🚀 Installation & Usage
