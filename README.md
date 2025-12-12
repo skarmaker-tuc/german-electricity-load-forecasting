@@ -43,12 +43,12 @@ If you use this code or our findings in your research, please cite the following
 ```bibtex
 @article{GermanLoadForecasting2025,
   title   = {Feature Engineering in Time Series Forecasting: An Empirical Study Using German Electricity Load Data},
-  author  = {YourLastName, YourFirstName},
+  author  = {Karmaker, S.},
   journal = {ScienceOpen Preprints},
   year    = {2025},
   month   = {Nov},
   doi     = {10.14293/PR2199.002316.v1},
-  url     = {[https://doi.org/10.14293/PR2199.002316.v1](https://doi.org/10.14293/PR2199.002316.v1)}
+  url     = {https://doi.org/10.14293/PR2199.002316.v1}
 }
 
 
