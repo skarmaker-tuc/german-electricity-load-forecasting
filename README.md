@@ -12,8 +12,12 @@ Feature engineering is a crucial element in Time Series Forecasting.Features can
 ## 📊 Key Findings
 * **Dataset:** Analyzed German electricity consumption data.
 * **Methodology:** Comparative analysis of classical machine learning models with extensive feature engineering.
-* **Result:** Feature engineering improved MAE and RMSE by more than 30%, showing that simple temporal features can significantly outperform a basic lag-1 regression model.
+## 📈 Results
+The plot below demonstrates the effectiveness of our feature engineering approach. The orange line (our model) shows significantly lower error amplitude compared to the baseline model (blue dashed line), particularly during high-variance periods.
 
+![Residual Comparison](residuals_plot.jpg)
+
+*Figure 1: Residual comparison over 200 hours. The feature-engineered model consistently achieves lower prediction error (MW) than the baseline.*
 ## 🚀 Installation & Usage
 
 ### Prerequisites
@@ -32,3 +36,17 @@ To run the experiments and reproduce the results, you will need:
 1. Clone the repository:
    ```bash
    git clone [https://github.com/skarmaker-tuc/german-electricity-load-forecasting.git](https://github.com/skarmaker-tuc/german-electricity-load-forecasting.git)
+
+## 🔗 Citation
+If you use this code or our findings in your research, please cite the following paper:
+
+```bibtex
+@article{GermanLoadForecasting2025,
+  title   = {Feature Engineering in Time Series Forecasting: An Empirical Study Using German Electricity Load Data},
+  author  = {YourLastName, YourFirstName},
+  journal = {ScienceOpen Preprints},
+  year    = {2025},
+  month   = {Nov},
+  doi     = {10.14293/PR2199.002316.v1},
+  url     = {[https://doi.org/10.14293/PR2199.002316.v1](https://doi.org/10.14293/PR2199.002316.v1)}
+}
